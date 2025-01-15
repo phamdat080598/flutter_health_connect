@@ -42,6 +42,7 @@ android {
 
     defaultConfig {
         minSdkVersion 26
+        namespace("dev.duynp.flutter_health_connect")
     }
 }
 
